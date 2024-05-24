@@ -1,0 +1,1 @@
+{"name":"Local: 2_Char","url":"e:\\DSA\\4_Hashing\\2_Char.cpp","tests":[{"id":1716300663729,"input":"abcdabehf\n5\na\ng\nh\nc\nb\ns","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\4_Hashing\\2_Char.cpp","group":"local","local":true}

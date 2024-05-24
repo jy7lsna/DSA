@@ -1,0 +1,1 @@
+{"name":"Local: 2_bubbleSort","url":"e:\\DSA\\5_Sorting\\2_bubbleSort.cpp","tests":[{"id":1716391012611,"input":"6\n32 14 53 24 58 21","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\5_Sorting\\2_bubbleSort.cpp","group":"local","local":true}
